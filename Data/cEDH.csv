@@ -1,0 +1,357 @@
+Date,Winning Place,Victory Turn,Win Attempts,Win Condition,Deck 1,Deck 2,Deck 3,Deck 4,Player 1,Player 2,Player 3,Player 4,Mulligans 1,Mulligans 2,Mulligans 3,Mulligans 4
+,2,,,,Aragorn,Magda,Gitrog,Talion,Astrid,Alex,Rory,Declan,,,,
+,1,,,,Magda,Gitrog,Talion,Aragorn,Alex,Rory,Declan,Astrid,,,,
+,4,,,,Magda,Gitrog,Slicer,Aragorn,Alex,Rory,Declan,Astrid,,,,
+,1,,,,Aragorn,Osgir,Gitrog,,Astrid,Kieran,Rory,,,,,
+,2,,,,Talion,Aragorn,Osgir,Gitrog,Max,Astrid,Kieran,Rory,,,,
+2024-08-05,2,,,,K’rrik,Aragorn,Stella,Tivit,Charlie,Astrid,James,Rory,,,,
+2024-08-05,3,,,,Aragorn,Stella,Tivit,K’rrik,Astrid,James,Rory,Charlie,,,,
+2024-08-05,2,,,,K’rrik,Aragorn,Stella,Tivit,Charlie,Astrid,James,Rory,,,,
+2024-08-12,2,7,,,Magda,Talion,K’rrik,River Song,Alex,Max,Charlie,Cayce,,,,
+2024-08-12,1,6,,,Magda,Tameshi,K’rrik,River Song,Alex,Max,Charlie,Cayce,,,,
+2024-08-12,2,6,,,Magda,Tivit,K’rrik,Yedora,Alex,Rory,Charlie,Pip,,,,
+2024-08-19,1,4,,,Talion,Tameshi,Magda,Tivit,Max,Astrid,Alex,Rory,,,,
+2024-08-19,2,8,,,Tivit,Talion,Tameshi,Magda,Rory,Max,Astrid,Alex,,,,
+2024-08-19,3,3,,,Aragorn,Magda,Flubs,,Astrid,Alex,Rory,,,,,
+2024-08-19,1,4,,,Flubs,K’rrik,Aragorn,Magda,Rory,Charlie,Astrid,Alex,,,,
+2024-08-19,1,5,,,Talion,Stella,K’rrik,Tivit,Max,Guillermo,Charlie,?,,,,
+2024-08-19,4,8,,,K’rrik,Talion,Magda,Flubs,Charlie,Max,Alex,Rory,,,,
+2024-08-26,2,7,,,River Song,Ghalta,Talion,Magda,Cayce,Pete,Max,Alex,,,,
+2024-08-26,3,10,,,Talion,Magda,River Song,Ghalta,Max,Alex,Cayce,Pete,,,,
+2024-08-26,3,4,,,Talion,Tivit,Gitrog,Flubs,Max,Charlie,Rory,Connor,,,,
+2024-08-29,1,3,,,Gitrog,Talion,Tivit,Stella,Rory,Max,James,Astrid,2,1,0,2
+2024-08-29,1,4,,,Tivit,Stella,Flubs,Tameshi,James,Astrid,Rory,Max,0,0,2,0
+2024-08-29,2,4,,,Talion,Tivit,Stella,Flubs,Max,James,Astrid,Rory,2,1,0,2
+2024-08-29,3,7,,,Tivit,Inalla,Talion,Gitrog,James,Astrid,Max,Rory,3,0,0,0
+2024-09-02,4,6,,,Stella,Magda,Aragorn,Talion,Connor Bell,Alex,Astrid,Max,1,1,1,1
+2024-09-02,2,3,,,Flubs,Aragorn,Stella,Tivit,Connor Bell,Astrid,Ariana,Rory,1,2,0,2
+2024-09-02,1,3,,,Tivit,Flubs,Aragorn,Stella,Rory,Connor Bell,Astrid,Ariana,1,4,4,0
+2024-09-02,2,4,,,Tivit,Stella,Gitrog,Flubs,Astrid,James,Rory,Connor Bell,2,0,2,1
+2024-09-02,2,10,,,Rograkh/Silas,Talion,Tameshi,Magda,Callum,Max,Iain,Max,0,2,1,2
+2024-09-02,2,3,,,Stella,Flubs,Aragorn,Tameshi,James,Rory,Connor Bell,Astrid,1,2,1,1
+2024-09-02,3,6,,,Magda,Rograkh/Silas,Talion,Tivit,Alex,Callum,Max,Tall Max,2,1,0,1
+2024-09-02,3,4,,,Tivit,Magda,Rograkh/Silas,Talion,Tall Max,Alex,Callum,Max,0,4,0,0
+2024-09-09,1,3,,,Wheeliod,Yuriko,Yedora,Rograkh/Thrasios,Max,James,Pip,Astrid,2,3,2,0
+2024-09-09,4,4,,,Wheeliod,Yuriko,Yedora,Rograkh/Thrasios,Max,James,Pip,Astrid,1,0,0,0
+2024-09-09,4,7,,,Yedora,Rograkh/Thrasios,Wheeliod,Yuriko,Pip,Astrid,Max,James,0,0,1,1
+2024-09-09,1,7,,,Rograkh/Thrasios,Rograkh/Silas,Rograkh/Silas,Stella,Astrid,Callum,Cayce,Tall Max,2,2,1,0
+2024-09-09,1,6,,,Winota,Flubs,Najeela,Rograkh/Silas,Iain,Rory,Connor Bell,Callum,0,0,1,1
+2024-09-09,4,7,,,Rograkh/Silas,Winota,Flubs,Najeela,Callum,Winota,Rory,Connor Bell,2,1,3,4
+2024-09-09,1,3,,,Rograkh/Silas,Rograkh/Silas,Winota,Najeela,Callum,Cayce,Iain,Connor Bell,1,2,1,0
+2024-09-09,4,5,,,Rograkh/Silas,River Song,Winota,Najeela,Callum,Cayce,Iain,Connor Bell,0,2,2,0
+2024-09-09,2,11,,,Yuriko,Winota,Najeela,Wheeliod,James,Iain,Connor Bell,Max,1,0,1,1
+2024-09-15,2,5,,,Flubs,Korvold,Yuriko,Wheeliod,Rory,Nathan,James,Max,3,3,3,2
+2024-09-15,4,2,,,Yuriko,Talion,Flubs,Korvold,James,Max,Rory,Nathan,0,0,0,1
+2024-09-15,1,4,,,Talion,Flubs,Ashling,Krark/Sakashima,Max,Rory,Nathan,James,0,0,0,0
+2024-09-15,4,4,,,Flubs,Ashling (MH3),Krark/Sakashima,Talion,Rory,Nathan,James,Max,0,0,0,0
+2024-09-15,2,5,,,Wheeliod,Flubs,Dihada,Krark/Sakashima,Max,Rory,Nathan,James,0,1,2,2
+2024-09-19,2,5,,,K’rrik,Sisay,Najeela,,Charlie,Astrid,Connor Bell,,0,1,3,
+2024-09-19,2,5,,,Sisay,Najeela,K’rrik,,Astrid,Connor Bell,Charlie,,1,1,2,
+2024-09-19,1,4,,,K’rrik,Najeela,Sisay,,Charlie,Connor Bell,Astrid,,0,0,0,
+2024-09-20,2,4,,,Anje Falkenrath,K’rrik,Rograkh/Thrasios,,Big Alex,Charlie,Astrid,,0,3,3,
+2024-09-20,3,4,,,K’rrik,Anje Falkenrath,Rograkh/Thrasios,,Charlie,Big Alex,Astrid,,0,0,2,
+2024-09-20,1,6,,,Rograkh/Thrasios,K’rrik,Anje Falkenrath,,Astrid,Charlie,Big Alex,,0,0,0,
+2024-09-21,1,3,,,Rograkh/Thrasios,Krark/Sakashima,Flubs,K’rrik,Astrid,James,Rory,Charlie,1,0,2,1
+2024-09-21,1,3,,,Flubs,Rograkh/Thrasios,K’rrik,Krark/Sakashima,Rory,Astrid,Charlie,James,1,2,2,0
+2024-09-22,2,4,,,Rograkh/Thrasios,Korvold,Talion,K’rrik,Astrid,Nathan,Max,Charlie,3,3,2,1
+2024-09-22,1,8,,,Talion,K’rrik,Rograkh/Thrasios,Korvold,Max,Charlie,Astrid,Nathan,1,2,3,2
+2024-09-22,4,3,,,Korvold,Rograkh/Silas,Kibo,Krark/Sakashima,Nathan,Rory,Charlie,James,2,2,0,2
+2024-09-22,1,4,,,Shorikai,Rograkh/Silas,Kibo,Yuriko,Nathan,Rory,Charlie,James,1,2,2,1
+2024-09-22,3,4,,,Rograkh/Silas,K’rrik,Yuriko,Shorikai,Rory,Charlie,James,Nathan,3,0,3,2
+2024-09-27,1,3,,,Kinnan,Flubs,K’rrik,Yuriko,Nathan,Rory,Charlie,James,2,0,0,2
+2024-09-27,1,3,,,Yuriko,Kinnan,Flubs,K’rrik,James,Nathan,Rory,Charlie,0,0,0,0
+2024-09-27,1,4,,,Flubs,K’rrik,Yuriko,Kinnan,Rory,Charlie,James,Nathan,3,0,2,0
+2024-09-27,4,3,,,Kinnan,Tivit,K’rrik,Yuriko,Nathan,Rory,Charlie,James,0,2,0,0
+2024-09-27,2,4,,,K’rrik,Magda,Kinnan,Tivit,Charlie,Max,Nathan,Rory,2,2,4,0
+2024-09-30,1,3,,,Rograkh/Silas,Magda,Kinnan,Ellivere,Callum,Max,Nathan,Bella,0,1,2,1
+2024-09-30,4,5,,,Ellivere,Rograkh/Silas,Magda,Kinnan,Bella,Callum,Max,Nathan,0,0,0,3
+2024-09-30,2,9,,,Kinnan,Ellivere,Rograkh/Silas,Magda,Nathan,Bella,Callum,Max,1,1,0,0
+2024-09-30,3,7,,,Ellivere,Rograkh/Silas,Magda,Kinnan,Bella,Callum,Max,Nathan,0,3,2,3
+2024-09-30,2,5,,,Magda,Kinnan,Ellivere,Rograkh/Silas,Max,Nathan,Bella,Callum,1,1,0,2
+2024-09-30,4,4,,,Trazyn,Cruelclaw,Magda,Kinnan,Jared,Tall Max,Max,Nathan,0,0,1,3
+2024-09-30,2,5,,,Cruelclaw,Magda,Kinnan,Trazyn,Tall Max,Max,Nathan,Jared,2,1,2,2
+2024-10-03,4,7,,,Tymna/Kodama,Magda,Yuriko,Kinnan,Rory,Max,James,Nathan,0,1,0,0
+2024-10-03,2,9,,,Kinnan,Magda,Yuriko,Tymna/Kodama,Nathan,Max,James,Rory,5,4,1,3
+2024-10-03,3,8,,,Krark/Sakashima,Tymna/Kodama,Kinnan,Magda,James,Rory,Nathan,Max,0,0,2,0
+2024-10-07,4,5,,,Krark/Sakashima,Yuriko,Rograkh/Thrasios,Magda,James,Elyse,Astrid,Max,0,4,1,2
+2024-10-07,1,8,,,Magda,Tivit,Rograkh/Silas,Cazur/Ukkima,Max,Robert,Cayce,Callum,3,2,2,1
+2024-10-07,1,15,,,Tivit,Rograkh/Silas,Cazur/Ukkima,Magda,Robert,Cayce,Callum,Max,2,2,0,2
+2024-10-07,4,3,,,Rograkh/Silas,Cruelclaw,Yuriko,Tymna/Thrasios,Rory,Tall Max,James,Bella,0,1,1,2
+2024-10-07,3,9,,,Rograkh/Silas,Cruelclaw,Yuriko,Tymna/Thrasios,Rory,Tall Max,James,Bella,0,1,1,2
+2024-10-07,1,7,,,Sakashima/Kodama,Kinnan,Yuriko,Rograkh/Thrasios,Guillermo,Nathan,Elyse,Astrid,1,1,2,0
+2024-10-07,3,5,,,Rograkh/Thrasios,Sakashima/Kodama,Kinnan,Yuriko,Astrid,Guillermo,Nathan,Elyse,4,4,1,2
+2024-10-08,1,6,,,Kinnan,Yuriko,Tameshi,Tymna/Kodama,Nathan,James,Max,Rory,2,2,2,3
+2024-10-08,3,5,,,Kinnan,Yuriko,Tameshi,Rograkh/Silas,Nathan,James,Max,Rory,6,0,0,0
+2024-10-11,3,2,,,K’rrik,Yuriko,Rograkh/Silas,Magda,Charlie,James,Rory,Max,2,0,0,3
+2024-10-11,4,2,,,Magda,K’rrik,Yuriko,Rograkh/Silas,Max,Charlie,James,Rory,3,3,1,1
+2024-10-11,4,5,,,K’rrik,Yuriko,Rograkh/Silas,Magda,Charlie,James,Rory,Max,0,0,0,4
+2024-10-11,1,4,,,Magda,K’rrik,Yuriko,Rograkh/Silas,Max,Charlie,James,Rory,3,0,3,2
+2024-10-11,3,4,,,K’rrik,Yuriko,Rograkh/Silas,Magda,Charlie,James,Rory,Max,3,0,2,2
+2024-10-11,2,3,,,Rograkh/Silas,Magda,K’rrik,Krark/Sakashima,Rory,Max,Charlie,James,4,2,3,1
+2024-10-11,3,2,,,K’rrik,Krark/Sakashima,Rograkh/Silas,Magda,Charlie,James,Rory,Max,0,1,1,2
+2024-10-11,4,2,,,K’rrik,Krark/Sakashima,Magda,Rograkh/Silas,Charlie,James,Max,Rory,2,3,0,1
+2024-10-11,3,3,,,Krark/Sakashima,Magda,Rograkh/Silas,K’rrik,James,Max,Rory,Charlie,3,0,0,1
+2024-10-11,2,5,,,K’rrik,Krark/Sakashima,Talion,Rograkh/Silas,Charlie,James,Max,Rory,1,1,1,1
+2024-10-13,1,8,,,Gitrog,Rograkh/Thrasios,Rograkh/Silas,K’rrik,Nathan,Astrid,Rory,Charlie,3,0,1,0
+2024-10-13,3,4,,,Winota,Rograkh/Silas,Rona,K’rrik,Nathan,Rory,Max,Charlie,1,3,1,0
+2024-10-14,3,8,,,Rograkh/Silas,Kinnan,Talion,"Winter, Misanthropic Guide",Callum,Nathan,Max,Tall Max,3,1,2,0
+2024-10-14,3,4,,,Sakashima/Kodama,Rograkh/Silas,Kinnan,Rona,Guillermo,Callum,Nathan,Max,0,0,1,1
+2024-10-14,4,7,,,Rograkh/Silas,Kinnan,Rona,Sakashima/Kodama,Callum,Nathan,Max,Guillermo,2,1,0,2
+2024-10-14,1,9,,,Rona,Sakashima/Kodama,Cazur/Ukkima,Gitrog,Max,Guillermo,Callum,Nathan,5,1,0,1
+2024-10-14,1,4,,,Rona,Sakashima/Kodama,Cazur/Ukkima,Gitrog,Max,Guillermo,Callum,Nathan,0,1,0,1
+2024-10-14,3,5,,,Rona,Sakashima/Kodama,Cazur/Ukkima,Gitrog,Max,Guillermo,Callum,Nathan,2,0,3,1
+2024-10-16,3,9,,,Kinnan,K’rrik,"Winter, Misanthropic Guide",Rona,Nathan,Charlie,Tall Max,Max,5,5,0,5
+2024-10-19,3,9,,,Sakashima/Kodama,Tymna/Tana,Talion,Cruelclaw,Guillermo,Declan,Max,Tall Max,0,0,1,1
+2024-10-19,3,7,,,Rograkh/Silas,Magda,Tymna/Tana,Sakashima/Kodama,Rory,Max,Declan,Guillermo,0,2,1,2
+2024-10-20,2,7,,,Magda,Tymna/Tana,Sakashima/Kodama,Rograkh/Silas,Max,Declan,Guillermo,Rory,0,1,6,1
+2024-10-20,3,11,,,Sakashima/Kodama,Rograkh/Silas,Talion,Tymna/Tana,Guillermo,Rory,Max,Declan,0,3,0,2
+2024-10-20,1,2,,,Rograkh/Silas,Kinnan,Yeva,Sakashima/Kodama,Rory,Nathan,Max,Guillermo,1,3,4,4
+2024-10-20,4,6,,,Kinnan,Yeva,Rograkh/Silas,Tymna/Tana,Nathan,Max,Rory,Declan,1,0,0,2
+2024-10-20,3,6,,,Tymna/Tana,Rograkh/Reyhan,Magda,Rograkh/Silas,Declan,Nathan,Max,Rory,1,1,2,0
+2024-10-21,3,6,,,Kinnan,Rograkh/Silas,Tymna/Thrasios,Sakashima/Kodama,Nathan,Rory,Bella,Guillermo,2,2,0,0
+2024-10-21,3,5,,,Tymna/Tana,Sakashima/Kodama,Kinnan,Jolly Balloon Man,Bella,Guillermo,Nathan,Connor Bell,1,1,0,3
+2024-10-21,1,6,,,Jolly Balloon Man,"Winter, Misanthropic Guide",Sakashima/Kodama,Kinnan,Connor Bell,Tall Max,Guillermo,Nathan,0,1,3,6
+2024-10-21,1,3,,,Kinnan,Rograkh/Silas,"Winter, Misanthropic Guide",Sakashima/Kodama,Nathan,Rory,Tall Max,Guillermo,2,2,1,2
+2024-10-21,1,4,,,Tivit,Rograkh/Thrasios,Tymna/Kraum,Rograkh/Silas,Rian,Astrid,Shannon,Rory,3,3,3,3
+2024-10-21,3,7,,,Tymna/Kraum,Rograkh/Silas,Tivit,Rograkh/Thrasios,Shannon,Rory,Rian,Astrid,3,2,1,0
+2024-10-24,1,6,,,Magda,"Winter, Misanthropic Guide",Marwyn the Nurturer,K’rrik,Max,Tall Max,Guillermo,Charlie,1,0,0,3
+2024-10-24,3,11,,,Magda,Kinnan,Marwyn the Nurturer,"Winter, Misanthropic Guide",Max,Nathan,Guillermo,Tall Max,1,3,2,0
+2024-10-24,2,7,,,Marwyn the Nurturer,Tivit,Magda,"Winter, Misanthropic Guide",Guillermo,Rory,Max,Tall Max,4,0,1,1
+2024-10-24,1,8,,,Marwyn the Nurturer,Bjorna/Wernog/Lurrus,Tivit,"Winter, Misanthropic Guide",Guillermo,Max,Rory,Tall Max,1,0,2,0
+2024-10-24,1,6,,,Raffine,"Winter, Misanthropic Guide",Bjorna/Wernog/Lurrus,Marwyn the Nurturer,Laura,Tall Max,Max,Guillermo,1,1,3,0
+2024-10-25,3,4,,,"Winter, Misanthropic Guide",Rograkh/Silas,Talion,Kinnan,Tall Max,Rory,Max,Nathan,0,4,0,3
+2024-10-25,2,7,,,Rograkh/Silas,Talion,"Winter, Misanthropic Guide",Kinnan,Rory,Max,Tall Max,Nathan,3,0,1,1
+2024-10-25,3,3,,,Rograkh/Silas,Rona,Cruelclaw,Kinnan,Rory,Max,Tall Max,Kinnan,0,1,1,1
+2024-10-28,3,4,,,Cazur/Ukkima,Marwyn the Nurturer,Talion,Yuriko,Callum,Guillermo,Max,James,1,2,4,2
+2024-10-28,1,5,,,Marwyn the Nurturer,Talion,Yuriko,Cazur/Ukkima,Guillermo,Max,James,Callum,0,2,1,1
+2024-10-28,4,10,,,Cazur/Ukkima,Marwyn the Nurturer,Talion,Yuriko,Callum,Guillermo,Max,James,1,2,4,3
+2024-10-28,1,7,,,Talion,Krark/Sakashima,Rograkh/Silas,Tymna/Tana,Max,James,Rory,Declan,1,1,3,5
+2024-10-28,3,3,,,Tymna/Tana,Krark/Sakashima,Rograkh/Silas,Cazur/Ukkima,Declan,James,Rory,Callum,1,1,0,2
+2024-10-29,3,2,,,Raffine,Marwyn the Nurturer,Rograkh/Silas,"Niv-Mizzet, Visionary",Laura,Guillermo,Rory,Nathan,0,2,1,0
+2024-10-29,1,6,,,"Niv-Mizzet, Visionary",Raffine,Marwyn the Nurturer,Rograkh/Silas,Nathan,Laura,Guillermo,Rory,1,1,4,0
+2024-10-29,1,10,,,Raffine,"Winter, Misanthropic Guide",Rograkh/Silas,"Niv-Mizzet, Visionary",Laura,Tall Max,Rory,Nathan,1,0,1,2
+2024-10-29,1,11,,,Raffine,"Winter, Misanthropic Guide","Niv-Mizzet, Visionary",Marwyn the Nurturer,Laura,Tall Max,Nathan,Guillermo,0,0,2,2
+2024-10-30,1,5,,,Kinnan,Slicer,Pride of the Hull Clade,Rograkh/Silas,Nathan,Laura,Tall Max,Rory,2,0,1,0
+2024-11-03,4,10,,,Tymna/Thrasios,Yuriko,"Niv-Mizzet, Visionary",Raffine,Bella,James,Nathan,Laura,0,0,1,0
+2024-11-03,2,9,,,Raffine,Pride of the Hull Clade,Animar,"Niv-Mizzet, Visionary",Laura,Tall Max,Pete,Nathan,0,0,2,1
+2024-11-03,1,8,,,Tymna/Kraum,"Niv-Mizzet, Visionary",Raffine,Pride of the Hull Clade,Rory,Nathan,Laura,Tall Max,0,4,1,1
+2024-11-04,3,4,,,Ob Nixilis,Cazur/Ukkima,Talion,Kinnan,Guillermo,Callum,Max,Nathan,2,1,0,2
+2024-11-04,1,9,,,Ob Nixilis,Cazur/Ukkima,Talion,Kinnan,Guillermo,Callum,Max,Nathan,2,3,0,2
+2024-11-04,4,6,,,Kinnan,Ob Nixilis,Cazur/Ukkima,Talion,Nathan,Guillermo,Callum,Max,2,1,1,0
+2024-11-04,1,10,,,"Niv-Mizzet, Visionary",Ob Nixilis,Cazur/Ukkima,Magda,Nathan,Guillermo,Callum,Max,0,0,0,0
+2024-11-05,2,7,,,Tymna/Tana,Tymna/Kraum,Talion,"Niv-Mizzet, Visionary",Declan,Rory,Max,Nathan,0,2,1,2
+2024-11-05,2,7,,,"Niv-Mizzet, Visionary",Tymna/Kraum,Talion,Tymna/Tana,Nathan,Rory,Max,Declan,3,1,1,0
+2024-11-05,1,7,,,Tymna/Tana,Talion,Tymna/Kraum,"Niv-Mizzet, Visionary",Declan,Max,Rory,Nathan,1,1,2,1
+2024-11-05,3,8,,,"Niv-Mizzet, Visionary",Tymna/Tana,Talion,Tymna/Kraum,Nathan,Declan,Max,Rory,1,3,1,3
+2024-11-06,4,3,,,Tymna/Kraum,Yuriko,Rograkh/Thrasios,Talion,Rory,James,Astrid,Max,3,1,1,0
+2024-11-06,1,6,,,Yuriko,Rograkh/Thrasios,Talion,Tymna/Kraum,James,Astrid,Max,Rory,1,3,2,4
+2024-11-06,4,6,,,Talion,Tymna/Kraum,Yuriko,Rograkh/Thrasios,Max,Rory,James,Astrid,1,0,1,0
+2024-11-06,1,6,,,Bjorna/Wernog/Lurrus,Rograkh/Silas,Yuriko,Tivit,Max,Rory,James,Astrid,1,3,1,0
+2024-11-07,4,4,,,Animar,Ob Nixilis,Raffine,Tymna/Kraum,Pete,Guillermo,Laura,Rory,0,3,0,0
+2024-11-07,2,5,,,Tymna/Kraum,Animar,Ob Nixilis,Raffine,Rory,Pete,Guillermo,Laura,0,1,1,0
+2024-11-07,3,5,,,Lumra,Pride of the Hull Clade,Bjorna/Wernog/Lurrus,Raffine,Pete,Tall Max,Max,Laura,2,0,0,1
+2024-11-09,2,6,,,Rograkh/Thrasios,Tivit,"Teferi, Temporal Archmage",Yuriko,Jack,Astrid,Tournament 3,Tournament 4,0,3,0,0
+2024-11-09,4,5,,,Gale/Scion,Tivit,Kinnan,Tayam,Tournament 1,Astrid,Tournament 3,Tournament 4,1,1,1,0
+2024-11-09,1,7,,,Talion,Tayam,Gale/Scion,Tivit,Max,Tournament 2,Tournament 3,Astrid,2,1,1,2
+2024-11-09,3,4,,,Tymna/Tana,"Urza, Lord High Artificer",Kinnan,Beamtown Bullies,Declan,Tournament 2,Tournament 3,Tournament 4,0,0,3,0
+2024-11-09,4,11,,,Tymna/Tana,Tymna/Thrasios,Kinnan,Talion,Declan,Bella,Tournament 3,Max,0,0,3,1
+2024-11-09,3,4,,,"Urza, Lord High Artificer",Prossh,Talion,"Teferi, Temporal Archmage",Tournament 1,Tournament 2,Max,Tournament 4,2,3,0,1
+2024-11-09,3,5,,,Yuriko,Jetmir,Tymna/Thrasios,Tymna/Kraum,Tournament 1,Tournament 2,Bella,Rory,0,0,1,4
+2024-11-09,3,7,,,Tymna/Tana,Tivit,Tymna/Kraum,Tivit,Declan,Tournament 2,Rory,Tournament 4,0,0,0,3
+2024-11-09,4,6,,,"Urza, Lord High Artificer",Tivit,Tymna/Kraum,Kinnan,Tournament 1,Tournament 2,Rory,Nathan,1,1,0,3
+2024-11-09,1,3,,,Gale/Scion,Kinnan,Tivit,Prossh,Tournament 1,Nathan,Tournament 3,Tournament 4,1,3,0,3
+2024-11-09,1,4,,,Rograkh/Thrasios,Kinnan,Tymna/Thrasios,Jetmir,Jack,Nathan,Bella,Tournament 4,2,3,0,0
+2024-11-10,1,5,,,Raffine,Ob Nixilis,Tymna/Kraum,Bjorna/Wernog/Lurrus,Laura,Guillermo,Rory,Max,2,0,2,2
+2024-11-10,1,3,,,Tymna/Thrasios,Tayam,Pride of the Hull Clade,Raffine,Bella,Max,Tall Max,Laura,2,3,0,1
+2024-11-10,3,9,,,Pride of the Hull Clade,Raffine,Tymna/Thrasios,Tayam,Tall Max,Laura,Bella,Max,1,3,0,2
+2024-11-10,1,11,,,Pride of the Hull Clade,Raffine,Tayam,Storm,Tall Max,Laura,Max,Pete,4,0,4,0
+2024-11-10,1,6,,,Ob Nixilis,Raffine,Bjorna/Wernog/Lurrus,Yuriko,Guillermo,Laura,Max,James,0,1,1,0
+2024-11-11,3,5,,,Cazur/Ukkima,"Niv-Mizzet, Visionary",Sakashima/Kodama,Kinnan,Callum,Beard James,Guillermo,Nathan,2,0,1,1
+2024-11-11,1,6,,,Talion,Cazur/Ukkima,Bjorna/Wernog/Lurrus,Marwyn the Nurturer,Nathan,Callum,Beard James,Guillermo,1,3,1,3
+2024-11-11,2,6,,,Bjorna/Wernog/Lurrus,Ob Nixilis,Talion,Cazur/Ukkima,Max,Guillermo,Nathan,Callum,0,1,1,2
+2024-11-11,2,8,,,Sakashima/Kodama,Talion,Cazur/Ukkima,Bjorna/Wernog/Lurrus,Guillermo,Nathan,Callum,Max,1,0,2,0
+2024-11-15,2,,,,Raffine,Bjorna/Wernog/Lurrus,Tymna/Tana,Lumra,Laura,Max,Declan,Pete,0,3,1,0
+2024-11-15,4,7,,,Master of Keys,Bjorna/Wernog/Lurrus,Storm,Raffine,Tall Max,Max,Pete,Laura,4,2,3,1
+2024-11-18,1,6,,,Talion,Jeska/Ishai,Sakashima/Kodama,Raffine,Nathan,Eva,Guillermo,Laura,2,2,1,1
+2024-11-18,3,3,,,Jeska/Ishai,Ob Nixilis,Raffine,Talion,Eva,Guillermo,Laura,Nathan,0,1,0,1
+2024-11-18,3,2,,,Jeska/Ishai,Bjorna/Wernog/Lurrus,Raffine,Rograkh/Silas,Eva,Max,Laura,Nathan,2,2,0,2
+2024-11-20,1,8,,,Raffine,Kinnan,K’rrik,Rograkh/Silas,Laura,Eva,Rory,Nathan,1,1,0,6
+2024-11-20,3,7,,,Rograkh/Reyhan,Raffine,Jeska/Ishai,K’rrik,Nathan,Laura,Eva,Rory,5,1,3,0
+2024-11-20,1,,,,Talion,Raffine,Jeska/Ishai,K’rrik,Nathan,Laura,Eva,Rory,0,0,1,0
+2024-11-20,2,,,,Krark/Sakashima,Bjorna/Wernog/Lurrus,Raffine,Jeska/Ishai,Nathan,Max,Laura,Eva,2,2,4,0
+2024-11-21,3,7,,,Jeska/Ishai,Tayam,K’rrik,Slicer,Eva,Max,Rory,Laura,2,3,1,2
+2024-11-21,1,6,,,Winota,Sakashima/Kodama,Captain America,Esika,Eva,Guillermo,Connor Bell,Rory,0,1,3,3
+2024-11-21,4,5,,,Winota,Ob Nixilis,Captain America,Esika,Eva,Guillermo,Connor Bell,Rory,2,0,0,2
+2024-11-25,3,8,,,Rograkh/Silas,Winota,Neerdiv,Ob Nixilis,Rory,Hannah,Bella,Guillermo,0,0,1,1
+2024-11-25,4,5,,,Winota,Neerdiv,Ob Nixilis,Rograkh/Silas,Hannah,Bella,Guillermo,Rory,1,1,1,0
+2024-11-25,2,4,,,Sakashima/Kodama,Magda,Winota,Jeska/Ishai,Guillermo,James,Hannah,Eva,1,0,0,0
+2024-11-25,2,6,,,Jeska/Ishai,Sakashima/Kodama,Krark/Sakashima,Winota,Eva,Guillermo,James,Hannah,2,0,0,0
+2024-11-25,2,6,,,Jeska/Ishai,Ob Nixilis,Krark/Sakashima,Winota,Eva,Guillermo,James,Hannah,1,0,3,0
+2024-11-25,4,6,,,Bjorna/Wernog/Lurrus,Jeska/Ishai,Yuriko,Raffine,Max,Eva,James,Laura,0,1,1,0
+2024-11-25,2,7,,,Jeska/Ishai,Yuriko,Raffine,Magda,Eva,James,Laura,Max,1,1,0,2
+2024-11-25,2,10,,,Raffine,Talion,Neerdiv,Rograkh/Silas,Laura,Max,Bella,Rory,0,0,1,3
+2024-11-25,2,2,,,Neerdiv,Rograkh/Silas,Raffine,Bjorna/Wernog/Lurrus,Bella,Rory,Laura,Max,1,0,1,4
+2024-11-25,1,5,,,Tivit,Bjorna/Wernog/Lurrus,Rograkh/Silas,Raffine,Frazer,Max,Rory,Laura,2,2,3,0
+2024-11-25,4,5,,,Jeska/Ishai,Tivit,Talion,Rograkh/Silas,Eva,Frazer,Max,Rory,1,2,1,4
+2024-11-26,1,6,,,Raffine,Pride of the Hull Clade,Jeska/Ishai,Neerdiv,Laura,Tall Max,Eva,Bella,0,0,1,3
+2024-11-26,4,7,,,Raffine,Jeska/Ishai,Ob Nixilis,Neerdiv,Laura,Eva,Guillermo,Bella,1,0,0,2
+2024-11-27,2,5,,,K’rrik,Raffine,Jeska/Ishai,Ob Nixilis,Rory,Laura,Eva,Guillermo,2,1,0,1
+2024-11-27,1,3,,,Raffine,Jeska/Ishai,Sakashima/Kodama,K’rrik,Laura,Eva,Guillermo,Rory,0,2,0,3
+2024-11-28,1,7,,,Jeska/Ishai,Sakashima/Kodama,Raffine,Neerdiv,Eva,Guillermo,Laura,Bella,2,2,0,1
+2024-11-28,4,5,,,Raffine,Neerdiv,Jeska/Ishai,Sakashima/Kodama,Laura,Bella,Eva,Guillermo,4,3,3,3
+2024-11-29,1,6,,,K-9/14th Doctor,Sorin of House Markov,Kess,Jeska/Ishai,Laura,Tall Max,Guillermo,Eva,0,0,0,2
+2024-11-29,2,5,,,Kess,Neerdiv,Jeska/Ishai,K-9/14th Doctor,Guillermo,Bella,Eva,Laura,3,1,4,0
+2024-11-29,1,9,,,Pride of the Hull Clade,Jeska/Ishai,K-9/14th Doctor,Sakashima/Kodama,Tall Max,Eva,Laura,Guillermo,0,0,0,1
+2024-11-30,2,6,,,Neerdiv,Yuriko,K-9/14th Doctor,Kess,Bella,Eva,Laura,Guillermo,2,1,3,0
+2024-11-30,3,4,,,Yuriko,K-9/14th Doctor,Ob Nixilis,Neerdiv,Eva,Laura,Guillermo,Bella,2,0,1,2
+2024-11-30,1,7,,,Arcum Dagsson,Yuriko,K-9/14th Doctor,Sakashima/Kodama,Nathan,Eva,Laura,Guillermo,1,0,3,3
+2024-11-30,3,6,,,K-9/14th Doctor,Ob Nixilis,"Lazav, Wearer of Faces",Yuriko,Laura,Guillermo,Nathan,Eva,0,0,1,1
+2024-12-01,4,6,,,K-9/14th Doctor,"Oskar, Rubbish Reclaimer",K’rrik,Krark/Sakashima,Laura,Nathan,Rory,Eva,0,0,3,3
+2024-12-01,3,4,,,Gitrog,K’rrik,Jeska/Ishai,K-9/14th Doctor,Nathan,Rory,Eva,Laura,0,1,2,0
+2024-12-01,2,4,,,K-9/14th Doctor,K’rrik,K’rrik,Jeska/Ishai,Laura,Rory,Charlie,Eva,0,0,0,1
+2024-12-02,1,9,,,Talion,Ob Nixilis,Sakashima/Kodama,Cazur/Ukkima,Tall Max,Nathan,Guillermo,Callum,0,2,2,3
+2024-12-03,4,11,,,"Urza, Lord High Artificer",Sorin of House Markov,Ellivere,K’rrik,Eva,Tall Max,Bella,Rory,4,3,0,2
+2024-12-03,1,8,,,"Urza, Lord High Artificer",Sorin of House Markov,K’rrik,Raffine,Eva,Tall Max,Rory,Laura,0,1,0,1
+2024-12-02,2,8,,,Bjorna/Wernog/Lurrus,Talion,Rograkh/Silas,Tivit,Frazer,Nathan,Rory,Astrid,0,3,1,1
+2024-12-02,2,4,,,Tivit,Bjorna/Wernog/Lurrus,Kinnan,Ob Nixilis,Astrid,Tall Max,Nathan,Guillermo,0,1,0,0
+2024-12-02,3,7,,,Tivit,Bjorna/Wernog/Lurrus,Kinnan,Ob Nixilis,Astrid,Tall Max,Nathan,Guillermo,0,2,1,3
+2024-12-02,2,6,,,Plagon,Tivit,Rograkh/Silas,Sakashima/Kodama,Callum,James,Rory,Iain,2,2,2,0
+2024-12-02,1,5,,,Tivit,Rograkh/Silas,Tymna/Kraum,Plagon,James,Rory,Iain,Callum,0,1,0,1
+2024-12-02,2,6,,,Plagon,Tivit,Rograkh/Silas,Sakashima/Kodama,Callum,James,Rory,Iain,2,0,2,0
+2024-12-02,1,5,,,Tivit,Rograkh/Silas,Tymna/Kraum,Plagon,James,Rory,Iain,Callum,0,1,0,1
+2024-12-04,1,14,,,K’rrik,Raffine,Jeska/Ishai,Kess,Rory,Laura,Eva,Guillermo,0,0,1,0
+2024-12-06,2,3,,,Tayam,Ob Nixilis,Raffine,"Urza, Lord High Artificer",Max,Guillermo,Laura,Eva,1,3,0,4
+2024-12-06,3,5,,,Raffine,Bjorna/Wernog/Lurrus,Ob Nixilis,"Urza, Lord High Artificer",Laura,Max,Guillermo,Eva,1,0,0,3
+2024-12-07,2,10,,,Raffine,Sorin of House Markov,"Urza, Lord High Artificer",K’rrik,Laura,Tall Max,Eva,Rory,2,0,3,2
+2024-12-07,1,7,,,Tymna/Kraum,Raffine,"Circu, Dimir Lobotomist",Ellivere,Ted,Laura,Nathan,Bella,0,0,0,2
+2024-12-07,3,5,,,Tymna/Kraum,Jeska/Ishai,Raffine,"Circu, Dimir Lobotomist",Ted,Eva,Laura,Nathan,2,3,0,2
+2024-12-07,1,6,,,Glarb,Tymna/Kraum,Jeska/Ishai,Sorin of House Markov,Nathan,Ted,Eva,Tall Max,5,0,2,0
+2024-12-07,2,7,,,Jeska/Ishai,Sorin of House Markov,Raffine,Glarb,Eva,Tall Max,Laura,Nathan,3,0,0,2
+2024-12-08,1,9,,,"Urza, Lord High Artificer",Raffine,Tymna/Kraum,Pride of the Hull Clade,Eva,Laura,Rory,Tall Max,2,0,1,0
+2024-12-08,4,5,,,Jeska/Ishai,Raffine,Pride of the Hull Clade,Sisay,Eva,Laura,Tall Max,Nathan,1,0,0,2
+2024-12-08,2,5,,,Raffine,Sisay,Tymna/Kraum,Flubs,Laura,Nathan,Rory,Eva,0,2,2,2
+2024-12-09,3,4,,,Pride of the Hull Clade,"Urza, Lord High Artificer",Sisay,K’rrik,Tall Max,James,Nathan,Rory,2,3,2,0
+2024-12-09,3,15,,,Sisay,K’rrik,"Urza, Lord High Artificer",Slicer,Nathan,Rory,James,Laura,3,1,3,1
+2024-12-09,2,7,,,Tivit,Rograkh/Silas,Winota,Ob Nixilis,Matt,Rory,Hannah,Guillermo,1,4,0,1
+2024-12-09,2,8,,,Winota,Bjorna/Wernog/Lurrus,Talion,Ob Nixilis,Hannah,Max,Iain,Guillermo,1,1,0,1
+2024-12-09,3,6,,,Winota,Bjorna/Wernog/Lurrus,Tymna/Kraum,Sakashima/Kodama,Hannah,Max,Iain,Guillermo,2,0,1,1
+2024-12-09,2,6,,,Rograkh/Silas,Sisay,Rona,Cazur/Ukkima,Rory,Nathan,James,Callum,0,4,4,2
+2024-12-09,3,4,,,Sisay,Tymna/Kraum,Cazur/Ukkima,Rograkh/Silas,Nathan,Iain,Callum,Rory,6,0,1,2
+2024-12-10,3,5,,,K’rrik,Slicer,Flubs,Sisay,Rory,Laura,Eva,Nathan,4,2,1,1
+2024-12-10,4,6,,,Jeska/Ishai,Sisay,Sorin of House Markov,Slicer,Eva,Nathan,Tall Max,Laura,2,3,0,2
+2024-12-11,2,7,,,Ob Nixilis,Kinnan,Slicer,Jeska/Ishai,Guillermo,Nathan,Laura,Eva,0,3,2,0
+2024-12-12,3,4,,,Sisay,Jeska/Ishai,Esika,Sorin of House Markov,Nathan,Eva,Rory,Tall Max,2,0,0,1
+2024-12-12,3,5,,,Jeska/Ishai,Ob Nixilis,Raffine,Sisay,Eva,Guillermo,Laura,Nathan,3,2,0,3
+2024-12-13,2,6,,,Raffine,Emry,Sakashima/Kodama,Sorin of House Markov,Laura,Aria,Guillermo,Tall Max,2,1,1,0
+2024-12-13,2,7,,,Sakashima/Kodama,Pride of the Hull Clade,Raffine,Emry,Guillermo,Tall Max,Laura,Aria,1,0,2,0
+2024-12-15,3,8,,,Jolly Balloon Man,Raffine,Sakashima/Kodama,Sorin of House Markov,Connor Bell,Eva,Guillermo,Tall Max,2,2,4,2
+2024-12-17,4,10,,,Raffine,Jeska/Ishai,Emry,Sakashima/Kodama,Laura,Eva,Aria,Guillermo,2,2,0,0
+2024-12-20,2,9,,,Raffine,"Rakdos, the Muscle",Sakashima/Kodama,Sisay,Laura,Eva,Guillermo,Nathan,0,0,2,0
+2024-12-22,3,2,,,"Tinybones, Bauble Burglar",K’rrik,Jeska/Ishai,,Nathan,Rory,Eva,,0,2,0,
+2024-12-23,2,4,,,Cazur/Ukkima,Bjorna/Wernog/Lurrus,Rograkh/Silas,K’rrik,Callum,Max,Cayce,Rory,0,2,2,5
+2024-12-23,3,7,,,K’rrik,Cazur/Ukkima,Bjorna/Wernog/Lurrus,Rograkh/Silas,Rory,Callum,Max,Cayce,0,1,2,1
+2024-12-26,1,3,,,Raffine,Emry,Jeska/Ishai,"Tinybones, Bauble Burglar",Laura,Aria,Eva,Nathan,0,1,1,2
+2024-12-26,4,12,,,"Tinybones, Bauble Burglar",Slicer,Emry,Godo,Nathan,Laura,Aria,Eva,1,1,0,0
+2024-12-26,1,5,,,K-9/14th Doctor,Emry,Yuriko,"Tinybones, Bauble Burglar",Laura,Aria,Eva,Nathan,2,3,1,2
+2024-12-28,2,7,,,Emry,Raffine,"Niv-Mizzet, Visionary",Flubs,Aria,Laura,Jack (Laura),Eva,0,1,2,0
+2024-12-30,1,5,,,Esika,Rograkh/Silas,Raffine,"Tinybones, Bauble Burglar",Rory,Eva,Laura,Nathan,2,3,1,4
+2025-01-01,1,5,,,Dihada,K’rrik,Stella,Raffine,Nathan,Rory,Eva,Laura,2,1,2,0
+2025-01-02,4,5,,,Stella,Raffine,"Tinybones, Bauble Burglar",K’rrik,Eva,Laura,Nathan,Rory,2,0,1,0
+2024-12-20,1,4,,,Raffine,Jeska/Ishai,Sakashima/Kodama,Broose/Thrasios,Laura,Eva,Guillermo,Nathan,1,2,1,0
+2025-01-03,2,4,,,Raffine,Emry,Stella,K’rrik,Laura,Aria,Eva,Rory,0,1,2,0
+2025-01-03,4,4,,,Emry,Stella,K’rrik,Raffine,Aria,Eva,Rory,Laura,1,1,0,0
+2025-01-03,4,4,,,K’rrik,Raffine,Emry,Stella,Rory,Laura,Aria,Eva,3,0,2,3
+2025-01-08,1,6,,,Emry,Raffine,Atraxa,Stella,Aria,Laura,Nathan,Eva,0,1,3,2
+2025-01-08,1,2,,,Rograkh/Silas,Stella,Emry,Raffine,Nathan,Eva,Aria,Laura,2,2,0,0
+2025-01-08,2,9,,,Emry,Raffine,Rograkh/Silas,Stella,Aria,Laura,Nathan,Eva,1,1,3,0
+2025-01-09,1,4,,,Stella,Karlach/Feywild Visitor,Raffine,Sorin of House Markov,Eva,Rory,Laura,Tall Max,3,0,4,3
+2025-01-09,3,7,,,Stella,Rograkh/Silas,Raffine,Sorin of House Markov,Eva,Rory,Laura,Tall Max,0,0,2,0
+2025-01-09,3,7,,,Glarb,Stella,Karlach/Feywild Visitor,Raffine,Nathan,Eva,Rory,Laura,2,3,0,0
+2025-01-10,4,6,,,"Winter, Misanthropic Guide",Karlach/Feywild Visitor,Stella,Raffine,Tall Max,Rory,Eva,Laura,0,2,4,1
+2025-01-11,2,6,,,"Muerra, Trash Technician","Heliod, Sun-Crowned",Stella,Rograkh/Silas,Bella,Laura,Eva,Rory,0,1,4,3
+2025-01-11,2,13,,,Esika,"Muerra, Trash Technician","Heliod, Sun-Crowned",Stella,Rory,Bella,Laura,Eva,2,1,0,0
+2025-01-12,3,8,,,Stella,Rograkh/Silas,Sorin of House Markov,Raffine,Eva,Rory,Tall Max,Laura,5,1,2,0
+2025-01-13,3,6,,,Bjorna/Wernog/Lurrus,Plagon,Sisay,Tivit,Iain,Callum,Nathan,Astrid,3,2,1,3
+2025-01-13,2,4,,,Cazur/Ukkima,Bjorna/Wernog/Lurrus,Tasigur,Esika,Callum,Max,Astrid,Rory,0,1,1,1
+2025-01-13,1,7,,,Esika,Tivit,Raffine,K-9/14th Doctor,Rory,Evie,Laura,Connor,3,1,0,1
+2025-01-13,2,4,,,K-9/14th Doctor,Esika,Cazur/Ukkima,Talion,Laura,Rory,Callum,Max,0,2,3,0
+2025-01-13,3,5,,,Plagon,Sisay,Rograkh/Silas,Bjorna/Wernog/Lurrus,Callum,Nathan,Cayce,Iain,2,1,1,0
+2025-01-13,4,6,,,Rograkh/Silas,Rograkh/Silas,Plagon,Sisay,Cayce,Iain,Callum,Nathan,2,4,2,3
+2025-01-19,1,4,,,Stella,Sisay,Ob Nixilis,Yusri,Eva,Astrid,Guillermo,Bella,0,2,4,2
+2025-01-19,2,3,,,Stella,Sisay,Ob Nixilis,Yusri,Eva,Astrid,Guillermo,Bella,2,1,0,1
+2025-01-21,4,5,,,Yusri,Esika,Sisay,Malcolm/Francisco,Bella,Rory,Nathan,Aria,2,3,1,2
+2025-01-21,3,4,,,Sisay,Malcolm/Francisco,Esika,Raffine,Nathan,Aria,Rory,Laura,0,2,0,1
+2025-01-21,4,5,,,Rograkh/Thrasios,Malcolm/Francisco,Raffine,Stella,Nathan,Aria,Laura,Eva,1,1,0,1
+2025-01-22,1,6,,,K-9/14th Doctor,Stella,Esika,Roxanne,Laura,Eva,Rory,Tall Max,0,0,1,1
+2025-01-23,1,8,,,Agatha of the Vile Cauldron,K-9/14th Doctor,Ketramose,Esika,Tall Max,Laura,Max,Rory,0,2,3,5
+2025-01-23,2,6,,,Agatha of the Vile Cauldron,K-9/14th Doctor,Ob Nixilis,Stella,Tall Max,Laura,Guillermo,Eva,0,0,1,4
+2025-01-24,3,7,,,Stella,Raffine,Yusri,Ob Nixilis,Eva,Laura,Bella,Guillermo,0,0,2,1
+2025-01-25,2,3,,,Agatha of the Vile Cauldron,Tymna/Thrasios,Malcolm/Francisco,Esika,Tall Max,Laura,Eva,Rory,1,0,0,2
+2025-01-26,4,5,,,Sisay,Ob Nixilis,Tymna/Thrasios,Stella,Astrid,Guillermo,Laura,Eva,0,0,0,3
+2025-01-26,3,4,,,Ob Nixilis,Tymna/Thrasios,Stella,Sisay,Guillermo,Laura,Eva,Astrid,2,0,2,0
+2025-01-26,3,5,,,Esika,Tymna/Thrasios,Emry,Sisay,Rory,Laura,Aria,Astrid,0,0,0,4
+2025-01-26,3,1,,,Esika,Tymna/Thrasios,Malcolm/Francisco,Agatha of the Vile Cauldron,Rory,Laura,Aria,Tall Max,1,1,1,1
+2025-01-26,2,6,,,Esika,Tymna/Thrasios,Malcolm/Francisco,Agatha of the Vile Cauldron,Rory,Laura,Aria,Tall Max,1,0,2,0
+2025-01-31,1,6,,,Animar,Esika,Agatha of the Vile Cauldron,Stella,Laura,Rory,Max,Eva,0,2,1,2
+2025-02-01,1,3,,,Esika,Stella,Breya,Ob Nixilis,Rory,Eva,Laura,Guillermo,0,2,1,3
+2025-02-01,3,4,,,Esika,Malcolm/Francisco,Breya,Ob Nixilis,Rory,Eva,Laura,Guillermo,0,1,3,0
+2025-02-01,4,4,,,Sakashima/Kodama,Esika,"Urza, Lord High Artificer",Breya,Guillermo,Rory,Eva,Laura,0,0,1,0
+2025-02-03,2,3,,,Kinnan,Esika,Sisay,Talion,Callum,Rory,James,Nathan,1,2,4,0
+2025-02-03,4,7,,,Sisay,Kinnan,Breya,Talion,Nathan,Callum,Laura,Max,2,0,0,3
+2025-02-09,4,21,,,Breya,Hashaton,Ob Nixilis,Pride of the Hull Clade,Laura,Rory,Guillermo,Tall Max,2,0,1,2
+2025-02-10,3,4,,,Talion,Bjorna/Wernog/Lurrus,Esika,Kinnan,Max,Iain,Rory,Callum,0,0,0,2
+2025-02-10,4,4,,,Esika,Kinnan,Talion,Breya,Rory,Callum,Max,Laura,2,1,3,0
+2025-02-10,2,9,,,Kinnan,Talion,Breya,Esika,Callum,Max,Laura,Rory,2,0,1,2
+2025-02-10,3,7,,,Esika,Kinnan,Magda,Breya,Rory,Callum,Max,Laura,2,2,3,2
+2025-02-10,2,7,,,Kinnan,Bjorna/Wernog/Lurrus,Breya,Esika,Callum,Max,Laura,Rory,2,0,1,4
+2025-02-11,3,6,,,Esika,Breya,Kinnan,Jeska/Ishai,Rory,Laura,Max,Eva,1,0,2,0
+2025-02-11,4,5,,,Kinnan,Jeska/Ishai,Esika,Breya,Max,Eva,Rory,Laura,0,0,0,0
+2025-02-11,2,6,,,Rograkh/Silas,Kinnan,Hashaton,Breya,Rory,Max,Connor Bell,Laura,3,0,1,0
+2025-02-12,2,6,,,Breya,Stella,Elsha,Emry,Laura,Eva,Coen,Aria,2,1,2,0
+2025-02-12,1,4,,,Emry,Breya,Stella,Najeela,Aria,Laura,Eva,Coen,1,3,1,0
+2025-02-13,3,6,,,"Rakdos, the Muscle",Tymna/Thrasios,"Loot, the Pathfinder",Breya,Tall Max,Nathan,Guillermo,Laura,1,3,0,0
+2025-02-15,4,6,,,Breya,Emry,"Loot, the Pathfinder","Rakdos, the Muscle",Laura,Aria,Guillermo,Tall Max,4,1,2,3
+2025-02-15,3,6,,,"Loot, the Pathfinder","Rakdos, the Muscle",Flubs,Breya,Guillermo,Tall Max,Rory,Laura,1,2,1,0
+2025-02-18,4,5,,,Malcolm/Francisco,Talion,Tymna/Thrasios,Esika,Aria,Max,Nathan,Rory,3,0,0,0
+2025-02-18,1,4,,,Talion,Tymna/Thrasios,Esika,Emry,Max,Nathan,Rory,Aria,2,0,3,2
+2025-02-17,1,6,,,Tymna/Thrasios,Winota,Kinnan,Tivit,Nathan,Hannah,James,Athul,2,1,1,0
+2025-02-17,3,5,,,Tivit,Kinnan,Tymna/Thrasios,Winota,Athul,James,Nathan,Hannah,0,0,1,0
+2025-02-17,1,7,2,Derevi+Emiel,Sisay,Animar,Kinnan,Talion,Astrid,Laura,Callum,Max,0,2,0,1
+2025-02-17,4,8,4,Teferi+Kitten,Talion,Sisay,Breya,Plagon,Max,Astrid,Laura,Callum,3,3,0,0
+2025-02-19,2,8,4,Derevi+Emiel,Derevi,Sisay,Esika,Talion,Rian,Astrid,Rory,Max,1,0,0,2
+2025-02-17,0,7,2,Draw,Animar,Sisay,Kinnan,Kinnan,Laura,Astrid,Callum,Max,1,0,0,2
+2025-02-03,0,,,Draw,Sisay,Talion,Kinnan,Esika,James,Nathan,Callum,Rory,3,1,0,1
+2025-01-25,0,3,,Draw,Esika,Agatha of the Vile Cauldron,Tymna/Thrasios,Malcolm/Francisco,Rory,Tall Max,Laura,Eva,2,2,3,2
+2024-12-14,0,8,,Draw,Magda,Sisay,Raffine,Sorin of House Markov,Eva,Nathan,Laura,Tall Max,2,5,2,0
+2024-12-11,0,5,,Draw,Slicer,Jeska/Ishai,Esika,Talion,Laura,Eva,Rory,Nathan,1,0,0,0
+2024-12-08,0,6,,Draw,Raffine,Tymna/Kraum,Sorin of House Markov,Flubs,Laura,Rory,Tall Max,Eva,1,2,1,3
+2025-02-20,4,6,2,Thoracle+Consult,"Rakdos, the Muscle",Sakashima/Kodama,Malcom/Tymna,Raffine,Tall Max,Guillermo,Aria,Laura,0,0,0,2
+2025-02-21,1,7,4,Rakdos+Phyrexian Altar,"Rakdos, the Muscle",Malcolm/Tymna,Stella,Sakashima/Kodama,Tall Max,Aira,Eva,Guillermo,2,1,1,0
+2025-02-22,3,7,6,Kodama loop,Captain Howler,Ratonhnhaké:ton,Sakashima/Kodama,Rograkh/Thrasios,Aria,Laura,Guillermo,Jack,2,1,0,1
+2025-02-23,1,5,1,Teferi+Kitten,"Bane, Lord of Darkness",Emry,"Eriette, the Beguiler",Hashaton,Laura,Eva,Tall Max,Coen,0,1,3,2
+2025-02-23,1,4,1,Isorev,Emry,Hashaton,Flubs,Tymna/Thrasios,Eva,Coen,Rory,Laura,1,0,1,0
+2025-02-23,2,6,10,Flubs,Hashaton,Flubs,K-9/14th Doctor,Emry,Coen,Rory,Laura,Eva,0,0,0,1
+2025-02-22,0,7,6,Draw,Plagon,Talion,Tivit,Tymna/Kraum,Callum,Max,Tournament 3,Tournament 4,3,3,0,2
+2025-02-22,2,4,4,Kinnan+Basalt,K-9/14th Doctor,Kinnan,K’rrik,Gale/Scion,Laura,Max,Tournament 3,Tournament 4,1,0,3,0
+2025-02-22,3,4,2,Food Chain,K’rrik,Gale/Scion,K-9/14th Doctor,Kinnan,Tournament 1,Tournament 2,Laura,Max,1,0,0,6
+2025-02-24,0,4,2,Draw,Tameshi,"Rakdos, the Muscle",Tymna/Thrasios,Malcolm/Tymna,Max,Tall Max,Laura,Aria,0,1,0,3
+2025-02-24,3,7,3,Copy Artifact loop,Tymna/Thrasios,Malcolm/Tymna,Tameshi,"Rakdos, the Muscle",Laura,Aria,Max,Tall Max,0,0,2,2
+2025-02-25,2,7,3,Copy Artifact loop,Sakashima/Kodama,Tameshi,Plagon,Kinnan,Guillermo,Max,Callum,Nathan,2,2,0,1
+2025-02-24,1,,4,Concession,Tymna/Thrasios,K-9/14th Doctor,Tymna/Tana,Plagon,Nathan,Laura,Declan,Callum,3,4,0,1
+2025-02-24,2,,2,All Will Be One,Tymna/Thrasios,Ob Nixilis,Tymna/Tana,Plagon,Nathan,Guillermo,Declan,Callum,2,3,1,1
+2025-02-22,2,3,1,Underworld Breach+Brain Freeze,Myra the Magnificent,Esika,K’rrik,Raffine,Tournament 1,Rory,Tournament 3,Laura,0,1,0,1
+2025-02-22,4,6,1,Thoracle+Pact,Raffine,Gale/Scion,Rograkh/Silas,Talion,Laura,Tournament 2,Tournament 3,Max,2,0,0,0
+2025-02-22,1,5,3,Manual Storm,"Rakdos, the Muscle","Narset, Enlightened Exile",Tivit,Raffine,Tall Max,Tournament 2,Tournament 3,Laura,1,2,0,2
+2025-02-22,3,4,3,Underworld Breach+Brain Freeze,"Rakdos, the Muscle",Rograkh/Thrasios,Esika,Rocco,Tall Max,Jack,Rory,Tournament 4,,,,
+2025-02-22,3,4,1,Thoracle+Consult,Ob Nixilis,Glarb,Tymna/Kraum,Esika,Tournament 1,Tournament 2,Tournament 3,Rory,0,0,0,1
+2025-02-26,2,5,1,Food Chain,Agatha of the Vile Cauldron,K-9/14th Doctor,Kinnan,Sisay,Tall Max,Laura,Eva,Astrid,1,1,3,1
+2025-02-26,1,3,1,Glint-Horn+Malcolm,Malcolm/Vial Smasher,Dihada,Animar,K-9/14th Doctor,Aria,Nathan,Laura,Eva,1,2,2,3
+2025-02-26,1,3,1,Glint-Horn+Malcolm,Malcolm/Vial Smasher,Tymna/Thrasios,Animar,K-9/14th Doctor,Aria,Nathan,Laura,Eva,0,2,1,4
+2025-02-26,2,8,4,Manual Storm,Tameshi,Animar,Y’shtola,Tymna/Thrasios,Max,Laura,Aria,Nathan,2,1,1,0
+2025-02-21,2,4,2,Kitten Storm,Esika,Plagon,Talion,Sisay,Rory,Callum,Max,Astrid,2,1,2,0
+2025-02-21,2,6,2,Derevi+Emiel,Talion,Sisay,Esika,Plagon,Max,Astrid,Rory,Calllum,3,0,2,4
+2025-02-21,0,7,,Draw,Esika,Plagon,Talion,Sisay,Rory,Callum,Max,Astrid,4,0,0,2
+2025-02-22,1,4,2,Underworld Breach+Grinding Station,"Narset, Enlightened Exile",Inalla,Tymna/Thrasios,Sisay,Tournament 1,Tournament 2,Tournament 3,Astrid,2,2,2,0
+2025-02-22,3,7,1,Kinnan+Basalt,"The Master, Transcendent",Ob Nixilis,Rograkh/Thrasios,Sisay,Tournament 1,Tournament 2,Jack,Astrid,0,1,0,1
+2025-02-22,0,6,3,Draw,Sisay,Tivit,Erinis/Street Urchin,Glarb,Astrid,Tournament 2,Tournament 3,Tournament 4,2,1,2,0
+2025-02-22,3,6,1,Derevi+Emiel,Rocco,Talion,Sisay,Tymna/Thrasios,Tournament 1,Max,Astrid,Tournament 4,2,2,0,2
